@@ -7,6 +7,7 @@ def subtract(a, b):
 
 
 def multiply(a, b):
+    print("multiplication bro")
     return a * b
 
 
